@@ -20,10 +20,10 @@ void percolate_down(int bars[], int index, int size);
 static const int WINDOW_HEIGHT = 600;           
 static const int WINDOW_WIDTH = 1000;
 static const float bar_width = 3.0f;
-static const int bars_count = WINDOW_WIDTH / bar_width;  // 333 for whole window
-//static const int bars_count = 400;
+static const int bars_count = WINDOW_WIDTH / bar_width; 
+
 bool quit = false;
-bool nithin = false;
+
 
 sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Sorting Visualizer");  //It defines an OS window that can be painted using the other classes of the graphics module
 
@@ -367,10 +367,10 @@ void quitfunction()
     quit = true;
 }
 
-//void generate_NewBars()
-//{
-//    std::cout << "New Block" << std::endl;
-//}
+
+
+
+
 
 int main()
 {
@@ -442,7 +442,7 @@ int main()
             std::cout << "Started Merge sort" << std::endl;
 
             merge_sort(heights, 0, bars_count - 1);
-            merge_colour(heights, 0, bars_count - 1);                  // Both sttarting bar colour and merge_sort colour are overlapping each other when they are going to sort so I have created a seprate function and then I have called the merge function
+            merge_colour(heights, 0, bars_count - 1);                  
 
             std::cout << "Completed Merge sort" << std::endl;
                 isSorted = true;
