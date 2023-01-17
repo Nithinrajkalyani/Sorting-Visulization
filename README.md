@@ -40,10 +40,11 @@ Quick Sort
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73999792/212746341-340b9ee7-2588-4444-b127-f6f15c8d2e07.gif)
 
 
+
 Bubble Sort
 
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73999792/212748274-6c5ea52e-60b4-4461-8d57-3a6593676df8.gif)
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/73999792/212803692-8ffee177-fda1-41a1-a233-f3e62872a96d.gif)
 
 
 Merge Sort
