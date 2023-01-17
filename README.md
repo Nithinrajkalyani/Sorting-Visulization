@@ -1,5 +1,5 @@
-# Sorting Visulization
-A simple application for visualizing sorting algorithms written in C++ & SFML a bunch of different sorting algorithms Like QuickSort, Bubble Sort, Merge sort, Heap sort, Insertion Sort, selection Sort With the functionality of shuffle Rectangle_Bars , New Rectangle_Bars , Quit.
+# Sorting Visualizer
+A simple application for Visualizer sorting algorithms written in C++ & SFML a bunch of different sorting algorithms Like QuickSort, Bubble Sort, Merge sort, Heap sort, Insertion Sort, selection Sort With the functionality of shuffle Rectangle_Bars , New Rectangle_Bars , Quit.
 
 # Algorithm 
 QuickSort
